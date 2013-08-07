@@ -1,0 +1,45 @@
+LIST OF MOBILE SENSORS:
+	-accelerometer
+	-gyroscope
+	-vibrate
+	-digital compass (magnetometer)
+	-barometer
+	-touchscreen (multitouch)
+	-camera
+	-proximity sensor
+	-GPS
+	-light sensor
+	-eye-tracking (S4)
+	
+http://www.w3.org/2011/02/mobile-web-app-state.html#sensors
+
+WEB STANDARDS
+
+	-accelerometer & gyroscope & compass & GPS:
+		~w3c - http://dev.w3.org/geo/api/spec-source-orientation.html
+		
+	-vibrate:
+		~TO DO
+		
+	-touchscreen:
+		~w3c - http://www.w3.org/TR/touch-events/
+		~multitouch included
+		
+	-camera
+		~w3c - only a very early draft
+		~TO DO
+		
+	-proximity sensor
+		~http://www.w3.org/TR/proximity/#user-proximity
+		~(po opisu bolj v smislu zaklepanja in ugašanja zaslona med telefoniranjem - ko je telefon pri ušesu)
+	
+	-light sensor
+		~http://www.w3.org/TR/ambient-light/
+		
+	-eye-tracking
+		~only on S4
+		
+SUPPORT
+
+http://mobilehtml5.org/ - list of browsers and their support and standards :)
+
