@@ -19,7 +19,8 @@ WEB STANDARDS
 		~w3c - http://dev.w3.org/geo/api/spec-source-orientation.html
 		
 	-vibrate:
-		~TO DO
+		~http://www.w3.org/TR/vibration/
+		~na stackoverflow-u je zastavljeno tako vprašanje in menda rabiš PhoneGap
 		
 	-touchscreen:
 		~w3c - http://www.w3.org/TR/touch-events/
@@ -27,7 +28,7 @@ WEB STANDARDS
 		
 	-camera
 		~w3c - only a very early draft
-		~TO DO
+		~http://www.html5rocks.com/en/tutorials/getusermedia/intro/
 		
 	-proximity sensor
 		~http://www.w3.org/TR/proximity/#user-proximity
