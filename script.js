@@ -7,22 +7,22 @@ $(document).ready(function(){
   function deviceMotionHandler(eventData){
     var acceleration = eventData.acceleration;
     if (acceleration.x > 0.0){
-      $('div').animate({left: "+=10%"}, 400);
+      $('div').animate({left: "+=10px"}, 400);
     }
     if (acceleration.x < 0.0){
-      $('div').animate({left: "-=10%"}, 400);
+      $('div').animate({left: "-=10px"}, 400);
     }
     if (acceleration.y > 0.0){
-      $('div').animate({top: "-=10%"}, 400);
+      $('div').animate({top: "-=10px"}, 400);
     }
     if (acceleration.y < 0.0){
-      $('div').animate({left: "+=10%"}, 400);
+      $('div').animate({left: "+=10px"}, 400);
     }
     if (acceleration.z > 0.0){
-      $('div').animate({height: "+=10%", width: "+=10%"}, 400);
+      $('div').animate({height: "+=10px", width: "+=10px"}, 400);
     }
     if (acceleration.z < 0.0){
-      $('div').animate({height: "-=10%", width: "-=10%"}, 400);
+      $('div').animate({height: "-=10px", width: "-=10px"}, 400);
     }
   };
 }); 

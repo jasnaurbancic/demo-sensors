@@ -47,3 +47,8 @@ http://mobilehtml5.org/ - list of browsers and their support and standards :)
 
 navigator - often used
 http://www.w3schools.com/js/js_window_navigator.asp
+
+IDEJA
+
+-žogica, ki se premika po zaslonu (gyroscope)
+-kvadrat, ki je animiran skladno s pospeški (ko zazna premik = pospešek se premakne v tisti smeri ali poveča/pomanjša - accelerometer)
